@@ -1,0 +1,133 @@
+#EXTM3U
+
+#EXTINF:-1, Abc television
+https://tr-netcdn.bitel.com.pe/netcdn-live-7/bitel/abctelevisionSRT/playlist.m3u8?timestamp=1794537237&wmkid=0&token=2f3289d18e281bffdc8624c542b54017&manifestfilter=video_bitrate:1-4000000&uid=10570177
+ 
+#EXTINF:-1, Yurivisión tv Musical
+https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/playlist.m3u8?manifestfilter=video_bitrate:1-4000000&uid=10570177
+
+#EXTINF:-1, Ucayali tv
+https://live-evg11.tv360.bitel.com.pe/bitel/ucayalitv/playlist.m3u8?manifestfilter=video_bitrate:1-4000000&uid=10570177
+
+#EXTINF:-1,  Alpha television
+https://tr-netcdn.bitel.com.pe/netcdn-live-7/bitel/bnbSRT/playlist.m3u8?timestamp=1794550023&wmkid=0&token=5fd74ba054c24448fd127304fa5893ea&manifestfilter=video_bitrate:1-4000000&uid=10570177
+
+#EXTINF:-1, Selvática televisión
+https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8?manifestfilter=video_bitrate:1-4000000&uid=10570177
+
+#EXTINF:-1,  Selva tv
+https://live-evg7.tv360.bitel.com.pe/bitel/selvatv/playlist.m3u8?manifestfilter=video_bitrate:1-4000000&uid=10570177
+ 
+#EXTINF:-1, CNC tv
+https://tr-netcdn.bitel.com.pe/netcdn-live-4/bitel/cnctvSRT-TRA/playlist.m3u8?timestamp=1794550422&wmkid=0&token=b3aee189ebfd0a1b4e0179cc0c039066&manifestfilter=video_bitrate:1-4000000&uid=10570177
+
+#EXTINF:-1,  CNC Cajamarca
+https://tr-netcdn.bitel.com.pe/netcdn-live-4/bitel/cnccajamarca/playlist.m3u8?timestamp=1794550482&wmkid=0&token=d379996b463ed0b906cddf1b9667b85e&manifestfilter=video_bitrate:1-4000000&uid=10570177
+ 
+#EXTINF:-1,  Chupaca tv
+https://live-evg13.tv360.bitel.com.pe/bitel/chupacatv/playlist.m3u8?manifestfilter=video_bitrate:1-4000000&uid=10570177
+
+
+#EXTINF:-1,  Premium Go
+https://live-evg8.tv360.bitel.com.pe/bitel/premiumgoSRT-TRA/playlist.m3u8?manifestfilter=video_bitrate:1-4000000&uid=10570177
+
+ 
+#EXTINF:-1,  Rio television
+https://live-evg7.tv360.bitel.com.pe/bitel/riotvSRT/playlist.m3u8?manifestfilter=video_bitrate:1-4000000&uid=10570177
+
+#EXTINF:-1,  Xtremo tv
+https://tr-netcdn.bitel.com.pe/netcdn-live-4/bitel/extremotv/playlist.m3u8?timestamp=1794550845&wmkid=0&token=f53fbfc0b7f5b704fa1c19af8c72013a&manifestfilter=video_bitrate:1-4000000&uid=10570177
+
+ 
+#EXTINF:-1, Aunó
+https://tr-netcdn.bitel.com.pe/netcdn-live-7/bitel/aunoSRT/playlist.m3u8?timestamp=1794550929&wmkid=0&token=04613234d6ee0d0bfab8fa38268f352b&manifestfilter=video_bitrate:1-4000000&uid=10570177
+
+  
+#EXTINF:-1,  La Cajita musical
+https://tr-netcdn.bitel.com.pe/netcdn-live-5/bitel/lacajitamusical/playlist.m3u8?timestamp=1794551031&wmkid=0&token=ac510a443b3e86d7af01c619c1371207&manifestfilter=video_bitrate:1-4000000&uid=10570177
+
+#EXTINF:-1,    Rumba tv (musica)
+https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8?manifestfilter=video_bitrate:1-4000000&uid=10570177
+
+ 
+#EXTINF:-1,   Tv wank
+https://live-evg11.tv360.bitel.com.pe/bitel/tvwanka/playlist.m3u8?manifestfilter=video_bitrate:1-4000000&uid=10570177
+
+#EXTINF:-1,   Anqara tv
+https://live-evg10.tv360.bitel.com.pe/bitel/anqaratv/playlist.m3u8?manifestfilter=video_bitrate:1-4000000&uid=10570177
+
+ 
+#EXTINF:-1,     Yoli tv
+https://live-evg5.tv360.bitel.com.pe/bitel/yolitvSRT/playlist.m3u8?manifestfilter=video_bitrate:1-4000000&uid=10570177
+
+  
+#EXTINF:-1,  Mac tv
+https://live-evg8.tv360.bitel.com.pe/bitel/mactv/playlist.m3u8?manifestfilter=video_bitrate:1-4000000&uid=10570177
+
+
+#EXTINF:-1,   Hoy peru
+https://tr-netcdn.bitel.com.pe/netcdn-live-4/bitel/hoyperutv/playlist.m3u8?timestamp=1794551469&wmkid=0&token=d12c0704e6c7f8c068875206ca50c61f&manifestfilter=video_bitrate:1-4000000&uid=10570177
+
+
+#EXTINF:-1,    Studio tv
+https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8?manifestfilter=video_bitrate:1-4000000&uid=10570177
+
+  
+#EXTINF:-1,  andinarTv 
+https://tr-netcdn.bitel.com.pe/netcdn-live-7/bitel/andinartvSRT-TRA/playlist.m3u8?timestamp=1794551604&wmkid=0&token=0f0cc3bcc8ebfe68ce08e9574008fcb0&manifestfilter=video_bitrate:1-4000000&uid=10570177
+
+ 
+#EXTINF:-1,     Cosit el Juliaca (musica)
+https://live-evg10.tv360.bitel.com.pe/bitel/cositeljuliaca/playlist.m3u8?manifestfilter=video_bitrate:1-4000000&uid=10570177
+
+#EXTINF:-1,    Nuestro canal 
+https://tr-netcdn.bitel.com.pe/netcdn-live-5/bitel/ncanalSRT/playlist.m3u8?timestamp=1794552408&wmkid=0&token=daa64eded75c7f13db94e70bccccd30b&manifestfilter=video_bitrate:1-4000000&uid=10570177
+
+#EXTINF:-1,   MaxTv
+https://live-evg11.tv360.bitel.com.pe/bitel/maxtv/playlist.m3u8?manifestfilter=video_bitrate:1-4000000&uid=10570177
+
+#EXTINF:-1,  Doble C
+https://tr-netcdn.bitel.com.pe/netcdn-live-4/bitel/doblecSRT-TRA/playlist.m3u8?timestamp=1794552519&wmkid=0&token=31cc1b3e4021e52ddfd0b006a518fea9&manifestfilter=video_bitrate:1-4000000&uid=10570177
+
+#EXTINF:-1,    Telelima
+https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/playlist.m3u8?manifestfilter=video_bitrate:1-4000000&uid=10570177
+
+ 
+#EXTINF:-1,     Onda digital tv2
+https://live-evg5.tv360.bitel.com.pe/bitel/odtv2SRT/playlist.m3u8?manifestfilter=video_bitrate:1-4000000&uid=10570177
+
+#EXTINF:-1,   Nexus tv
+https://live-evg13.tv360.bitel.com.pe/bitel/nexustvSRT-TRA/playlist.m3u8?manifestfilter=video_bitrate:1-4000000&uid=10570177
+
+ 
+#EXTINF:-1,      Fuego tv
+https://live-evg5.tv360.bitel.com.pe/bitel/fuegotv/playlist.m3u8?manifestfilter=video_bitrate:1-4000000&uid=10570177
+ 
+
+#EXTINF:-1,     +Movie Acción 
+https://live-evg13.tv360.bitel.com.pe/bitel/+movieaccion/playlist.m3u8?manifestfilter=video_bitrate:1-4000000&uid=10570177
+
+
+#EXTINF:-1,    +Movie Terror
+https://live-evg13.tv360.bitel.com.pe/bitel/movieterror/playlist.m3u8?manifestfilter=video_bitrate:1-4000000&uid=10570177
+
+
+#EXTINF:-1,      RetroX tv
+https://stream-retroxtv.site/w/YsgWSG6WtjajVhCmgkC9kkda.m3u8
+
+
+#EXTINF:-1,    FMH Movies
+https://tr-netcdn.bitel.com.pe/netcdn-live-4/bitel/fmhmovies_abr/playlist.m3u8?timestamp=1794553539&wmkid=0&token=75ea5345dacd954508e9df12b9e32297&manifestfilter=video_bitrate:1-4000000&uid=10570177
+
+#EXTINF:-1,      ENT Movies
+https://cdn.40mediagroup.com/live/c7eds/ENT_Movies/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1,    ENT Drama
+https://cdn.40mediagroup.com/live/c7eds/ENT_Drama/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1,     ENT Classic
+https://cdn.40mediagroup.com/live/c7eds/ENT_Classics/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1,     ENT Life
+https://cdn.40mediagroup.com/live/c7eds/ENT_Life/SA_LIVE_hls_enc/master.m3u8
+
